@@ -1,0 +1,10 @@
+docs/
+ ├── relatorios/
+ │    └── RELATORIO.md
+ ├── requisitos/
+ │    └── requisitos.md
+ ├── guias/
+ │    └── manual.md
+ ├── historico/
+ │    └── changelog.md
+ └── licenca.md
