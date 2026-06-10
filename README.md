@@ -3,7 +3,7 @@
 Este repositório tem como função reunir todos os recursos visuais e técnicos do Projeto Ghojun
 
 ## Design
-- Arquivos exportados do Figma estão na pasta '/design'(https://github.com/H4lfl1n4221/GhojunMusic-Chat/tree/main/design).
+- Arquivos exportados do Figma estão na pasta ['/design'](https://github.com/H4lfl1n4221/GhojunMusic-Chat/tree/main/design).
 - Protótipo interativo: [Ghojun no Figma](https://www.figma.com/design/cq11uJURii95kvf8RJSgCG/Ghojun?node-id=0-1&p=f&t=FDPkvlG7eCqcrz6i-0)
 
 ## Objetivo
