@@ -72,4 +72,5 @@ Fonte: [https://www.youtube.com/@massobeats](https://www.youtube.com/@massobeats
 
 - Yuse: Lofi clássico, focado em sons de chuva, vinil e batidas suaves.
  Seus Direitos: Livre para uso não comercial (CC BY-NC). Perfeito para o MVP de vocês rodar sem sustos judiciais.
+
 Fonte: [https://soundcloud.com/user-371535188](https://soundcloud.com/user-371535188)
