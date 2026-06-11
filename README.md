@@ -37,7 +37,7 @@ Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pel
 - [Carlos Henrique Alves Pereira](https://github.com/naivernaiveretriet-png) — Curadoria Musical
 - [Otávio Miranda Galvão](https://github.com/otavio-miranda) — Documentador
 - [Weslley da Silva Macário](https://github.com/weslleydasilva) — Programador
-- 
+ 
 ## Professores responsáveis
 - [Hideljundes Macedo Paulino](https://github.com/Hideljundes)
 - [Wanfranklin de Carvalho Moreira Alves](https://github.com/Wanfranklin)
