@@ -11,8 +11,8 @@ Criar um projeto funcional de um aplicativo de musica e chat que combina design 
 
 ## Equipe
 Trabalho desenvolvido para a disciplina Interação Humano Computador e UX pelos membros:
-- Miguel Lucas Martins **Curador/Organizador**
-- Carlos Eduardo Cavalcante Ramalho **Designer**
-- Carlos Henrique Alves Pereira **Músico**
-- Otávio Miranda Galvão **Documentador**
-- Weslley da Silva Macário **Programador**
+- Miguel Lucas Martins **(Curador/Organizador)**
+- Carlos Eduardo Cavalcante Ramalho **(Designer)**
+- Carlos Henrique Alves Pereira **(Músico)**
+- Otávio Miranda Galvão **(Documentador)**
+- Weslley da Silva Macário **(Programador)**
