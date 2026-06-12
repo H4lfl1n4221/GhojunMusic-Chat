@@ -1,4 +1,4 @@
-#Documento de Compliance, Governança e Diretrizes Legais  
+# Documento de Compliance, Governança e Diretrizes Legais  
 
 **Disciplina**: Interação Humano Computador e UX nosso projeto para o objetivo da A3 (Ghojun)
 
@@ -9,7 +9,7 @@
 
 
 
-##GHOJUN – Plataforma de Música e Comunicação em Tempo Real
+## GHOJUN – Plataforma de Música e Comunicação em Tempo Real
 
 1. Apresentação do Projeto
 O Ghojun é uma plataforma digital de streaming musical integrada com ferramentas de comunicação em tempo real, desenvolvida em 10 de junho de 2026. O projeto foi concebido com foco em acessibilidade tecnológica, visando atender usuários que utilizam computadores e dispositivos móveis com recursos limitados de hardware.
