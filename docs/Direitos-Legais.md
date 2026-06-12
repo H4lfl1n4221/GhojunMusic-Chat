@@ -68,7 +68,7 @@ A plataforma será composta pelos seguintes módulos:
 **7. Requisitos Funcionais**:
 
    
-*6.1 Cadastro e Autenticação*:
+- *6.1 Cadastro e Autenticação*:
 
 
 RF001 – Cadastro de usuário
@@ -84,7 +84,7 @@ RF004 – Gerenciamento de perfil
 O usuário deve poder editar foto, nome, biografia e preferências musicais.
 
 
-*6.2 Reprodução de Música*:
+- *6.2 Reprodução de Música*:
 
 
 RF005 – Busca de músicas
@@ -106,7 +106,7 @@ RF010 – Favoritos
 O usuário deve poder marcar músicas, álbuns e artistas como favoritos.
 
 
-*6.3 Playlists*:
+- *6.3 Playlists*:
 
 
 RF011 – Criar playlist
@@ -125,7 +125,7 @@ RF015 – Playlist colaborativa
 O sistema deve permitir que múltiplos usuários editem uma playlist compartilhada.
 
 
-*6.4 Rede Social e Amigos*:
+- *6.4 Rede Social e Amigos*:
 
 
 RF016 – Adicionar amigos
@@ -144,7 +144,7 @@ RF020 – Compartilhar música com amigos
 O usuário deve poder enviar músicas diretamente para outros usuários.
 
 
-*6.5 Chat de Texto*:
+- *6.5 Chat de Texto*:
 
 
 RF021 – Conversa privada
@@ -166,7 +166,7 @@ RF026 – Notificações
 O sistema deve notificar o recebimento de novas mensagens.
 
 
-*6.6 Chat de Voz*:
+- *6.6 Chat de Voz*:
 
 
 RF027 – Chamada de voz individual
@@ -188,7 +188,7 @@ RF032 – Moderação de sala
 O criador da sala deve poder remover participantes.
 
 
-*6.7 Escuta Compartilhada*:
+- *6.7 Escuta Compartilhada*:
 
 
 RF033 – Sessão compartilhada
@@ -204,7 +204,7 @@ RF036 – Chat durante a reprodução
 O sistema deve permitir interação por texto e voz durante a sessão.
 
 
-*6.8 Notificações*:
+- *6.8 Notificações*:
 
 
 RF037 – Notificações de amizade
@@ -220,7 +220,7 @@ RF040 – Notificações de compartilhamento
 O sistema deve informar quando uma música ou playlist for compartilhada.
 
 
-*6.9 Administração*:
+- *6.9 Administração*:
 
 
 RF041 – Gerenciar usuários
@@ -239,61 +239,61 @@ O sistema deve gerar relatórios de uso, reprodução e interações sociais.
 Os requisitos não funcionais estabelecem os padrões de qualidade, desempenho, segurança e confiabilidade do sistema.
 
 
-*7.1 Desempenho*:
+- *7.1 Desempenho*:
 
 
 RNF001 ao RNF005 – Tempo de resposta, carregamento de músicas, entrega de mensagens em tempo real, latência de voz e escalabilidade.
 
 
-*7.2 Disponibilidade e Confiabilidade*:
+- *7.2 Disponibilidade e Confiabilidade*:
 
 
 RNF006 ao RNF009 – Disponibilidade mínima de 99,5%, recuperação de falhas, backups automáticos e integridade dos dados.
 
 
-*7.3 Segurança:*
+- *7.3 Segurança:*
 
 
 RNF010 ao RNF014 – Criptografia HTTPS/TLS, armazenamento seguro de senhas, controle de acesso, conformidade com a LGPD e autenticação multifator.
 
 
-*7.4 Usabilidade*:
+- *7.4 Usabilidade*:
 
 
 RNF015 ao RNF018 – Facilidade de uso, interface intuitiva, consistência visual e acessibilidade.
 
 
-*7.5 Compatibilidade*:
+- *7.5 Compatibilidade*:
 
 
 RNF019 ao RNF021 – Compatibilidade com Android, iOS, navegadores modernos e diferentes resoluções.
 
 
-*7.6 Manutenibilidade*:
+- *7.6 Manutenibilidade*:
 
 
 RNF022 ao RNF025 – Modularização, documentação, testes automatizados e atualizações seguras.
 
 
-*7.7 Escalabilidade*:
+- *7.7 Escalabilidade*:
 
 
 RNF026 ao RNF028 – Crescimento de usuários, balanceamento de carga e infraestrutura em nuvem.
 
 
-*7.8 Qualidade de Áudio*:
+- *7.8 Qualidade de Áudio*:
 
 
 RNF029 ao RNF031 – Streaming de qualidade, cancelamento de ruído e continuidade da reprodução.
 
 
-*7.9 Notificações*:
+- *7.9 Notificações*:
 
 
 RNF032 ao RNF033 – Entrega eficiente e personalização das notificações.
 
 
-*7.10 Monitoramento*:
+- *7.10 Monitoramento*:
 
 
 RNF034 ao RNF036 – Registro de eventos, monitoramento contínuo e alertas automáticos.
