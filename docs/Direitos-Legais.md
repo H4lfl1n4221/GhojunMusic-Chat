@@ -13,8 +13,11 @@
 
 **1. Apresentação do Projeto**
 O Ghojun é uma plataforma digital de streaming musical integrada com ferramentas de comunicação em tempo real, desenvolvida em 10 de junho de 2026. O projeto foi concebido com foco em acessibilidade tecnológica, visando atender usuários que utilizam computadores e dispositivos móveis com recursos limitados de hardware.
+
 Diferentemente de aplicações tradicionais que demandam grande capacidade de processamento e memória, o Ghojun prioriza a otimização de desempenho, oferecendo uma experiência fluida mesmo em equipamentos de entrada. Sua arquitetura foi projetada para minimizar o consumo de memória RAM, processamento e tráfego de dados, sem comprometer a qualidade dos serviços oferecidos.
+
 A proposta central da plataforma é proporcionar um ambiente onde usuários possam ouvir músicas simultaneamente com seus amigos enquanto interagem por meio de chats de texto e voz, promovendo experiências sociais mais dinâmicas e colaborativas.
+
 
 **2. Objetivos**
 O principal objetivo do Ghojun é unir entretenimento musical e comunicação digital em uma única plataforma, permitindo que usuários compartilhem momentos, conversem e consumam conteúdo musical de forma sincronizada.
@@ -68,10 +71,13 @@ A plataforma será composta pelos seguintes módulos:
 
 RF001 – Cadastro de usuário
 O sistema deve permitir que usuários criem uma conta utilizando e-mail, telefone ou login social.
+
 RF002 – Login
 O sistema deve permitir autenticação por e-mail/senha ou provedores externos.
+
 RF003 – Recuperação de senha
 O sistema deve permitir redefinição de senha por e-mail ou SMS.
+
 RF004 – Gerenciamento de perfil
 O usuário deve poder editar foto, nome, biografia e preferências musicais.
 
@@ -79,14 +85,19 @@ O usuário deve poder editar foto, nome, biografia e preferências musicais.
 
 RF005 – Busca de músicas
 O sistema deve permitir pesquisar músicas, artistas, álbuns e playlists.
+
 RF006 – Reprodução de músicas
 O sistema deve reproduzir músicas sob demanda.
+
 RF007 – Controle de reprodução
 O usuário deve poder reproduzir, pausar, avançar, retroceder e ajustar volume.
+
 RF008 – Fila de reprodução
 O usuário deve poder adicionar músicas à fila de reprodução.
+
 RF009 – Reprodução em segundo plano
 O sistema deve permitir continuar a reprodução mesmo com o aplicativo minimizado.
+
 RF010 – Favoritos
 O usuário deve poder marcar músicas, álbuns e artistas como favoritos.
 
@@ -94,12 +105,16 @@ O usuário deve poder marcar músicas, álbuns e artistas como favoritos.
 
 RF011 – Criar playlist
 O usuário deve poder criar playlists personalizadas.
+
 RF012 – Editar playlist
 O usuário deve poder alterar nome, capa e descrição de playlists.
+
 RF013 – Adicionar músicas
 O usuário deve poder adicionar ou remover músicas das playlists.
+
 RF014 – Compartilhar playlist
 O usuário deve poder compartilhar playlists com outros usuários.
+
 RF015 – Playlist colaborativa
 O sistema deve permitir que múltiplos usuários editem uma playlist compartilhada.
 
@@ -107,12 +122,16 @@ O sistema deve permitir que múltiplos usuários editem uma playlist compartilha
 
 RF016 – Adicionar amigos
 O usuário deve poder enviar e aceitar solicitações de amizade.
+
 RF017 – Lista de amigos
 O sistema deve exibir a lista de amigos do usuário.
+
 RF018 – Remover amigos
 O usuário deve poder remover contatos da lista de amigos.
+
 RF019 – Visualizar atividade
 O usuário deve poder visualizar o que seus amigos estão ouvindo.
+
 RF020 – Compartilhar música com amigos
 O usuário deve poder enviar músicas diretamente para outros usuários.
 
@@ -120,14 +139,19 @@ O usuário deve poder enviar músicas diretamente para outros usuários.
 
 RF021 – Conversa privada
 O sistema deve permitir troca de mensagens privadas entre amigos.
+
 RF022 – Conversas em grupo
 O sistema deve permitir criação de grupos de conversa.
+
 RF023 – Envio de emojis
 O usuário deve poder enviar emojis nas mensagens.
+
 RF024 – Compartilhamento de músicas
 O usuário deve poder compartilhar músicas dentro do chat.
+
 RF025 – Indicador de leitura
 O sistema deve exibir quando uma mensagem foi entregue e visualizada.
+
 RF026 – Notificações
 O sistema deve notificar o recebimento de novas mensagens.
 
@@ -135,14 +159,19 @@ O sistema deve notificar o recebimento de novas mensagens.
 
 RF027 – Chamada de voz individual
 O sistema deve permitir chamadas de voz entre dois usuários.
+
 RF028 – Sala de voz em grupo
 O sistema deve permitir salas de voz com múltiplos participantes.
+
 RF029 – Controle de microfone
 O usuário deve poder ativar ou desativar seu microfone.
+
 RF030 – Convite para sala de voz
 O usuário deve poder convidar amigos para participar de uma sala de voz.
+
 RF031 – Exibição de participantes
 O sistema deve exibir os participantes presentes na sala.
+
 RF032 – Moderação de sala
 O criador da sala deve poder remover participantes.
 
@@ -150,10 +179,13 @@ O criador da sala deve poder remover participantes.
 
 RF033 – Sessão compartilhada
 O usuário deve poder criar uma sessão para ouvir músicas junto com amigos.
+
 RF034 – Sincronização da reprodução
 O sistema deve sincronizar a reprodução da música para todos os participantes.
+
 RF035 – Controle colaborativo
 Participantes autorizados devem poder controlar a música reproduzida.
+
 RF036 – Chat durante a reprodução
 O sistema deve permitir interação por texto e voz durante a sessão.
 
@@ -161,10 +193,13 @@ O sistema deve permitir interação por texto e voz durante a sessão.
 
 RF037 – Notificações de amizade
 O sistema deve notificar novas solicitações de amizade.
+
 RF038 – Notificações de mensagens
 O sistema deve notificar novas mensagens recebidas.
+
 RF039 – Notificações de chamadas
 O sistema deve alertar usuários sobre chamadas recebidas.
+
 RF040 – Notificações de compartilhamento
 O sistema deve informar quando uma música ou playlist for compartilhada.
 
@@ -172,8 +207,10 @@ O sistema deve informar quando uma música ou playlist for compartilhada.
 
 RF041 – Gerenciar usuários
 Administradores devem poder suspender ou bloquear contas.
+
 RF042 – Moderação de conteúdo
 Administradores devem poder remover conteúdos inadequados.
+
 RF043 – Relatórios
 O sistema deve gerar relatórios de uso, reprodução e interações sociais.
 
