@@ -44,4 +44,4 @@ Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pel
 
 
 ## Licença e Créditos Musicais
-As informações sobre músicas utilizadas e respectivas licenças estarão disponíveis na pasta [`musicas/`](https://github.com/H4lfl1n4221/GhojunMusic-Chat/tree/main/musicas).
+As informações sobre músicas utilizadas e respectivas licenças estarão disponíveis na pasta [`musicas/`](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/main/musicas/lista-de-faixas.md).
