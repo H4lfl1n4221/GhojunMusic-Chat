@@ -10,13 +10,13 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 - Protótipo interativo: [Ghojun no Figma](https://www.figma.com/design/cq11uJURii95kvf8RJSgCG/Ghojun?node-id=0-1&p=f&t=FDPkvlG7eCqcrz6i-0)
 
 ## 📸 Screenshots
-###Home
+### Home
 ![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/Home.png)
 
-###Login
+### Login
 ![Login](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/Login.png)
 
-###Playlist
+### Playlist
 ![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/Playlist.png)
 
 ## Funcionalidades Planejadas
