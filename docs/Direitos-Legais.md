@@ -18,13 +18,14 @@ A proposta central da plataforma é proporcionar um ambiente onde usuários poss
 
 2. Objetivos
 O principal objetivo do Ghojun é unir entretenimento musical e comunicação digital em uma única plataforma, permitindo que usuários compartilhem momentos, conversem e consumam conteúdo musical de forma sincronizada.
+
 Entre os objetivos específicos do projeto destacam-se:
-•	Disponibilizar uma biblioteca musical de fácil acesso.
-•	Permitir comunicação instantânea por texto e voz.
-•	Proporcionar sessões de escuta compartilhada entre amigos.
-•	Reduzir o consumo de recursos computacionais.
-•	Garantir compatibilidade com dispositivos de baixo desempenho.
-•	Oferecer uma experiência intuitiva e acessível para diferentes perfis de usuários.
+-	Disponibilizar uma biblioteca musical de fácil acesso.
+-	Permitir comunicação instantânea por texto e voz.
+-	Proporcionar sessões de escuta compartilhada entre amigos.
+-	Reduzir o consumo de recursos computacionais.
+-	Garantir compatibilidade com dispositivos de baixo desempenho.
+-	Oferecer uma experiência intuitiva e acessível para diferentes perfis de usuários.
 
 3. Público-Alvo
 O Ghojun foi desenvolvido para atender principalmente dois grupos de usuários:
@@ -35,31 +36,34 @@ Usuários que necessitam de ferramentas de comunicação para reuniões, grupos 
 
 4. Diferenciais Competitivos
 Os principais diferenciais do Ghojun são:
-•	Baixo consumo de memória RAM.
-•	Otimização para computadores e smartphones de entrada.
-•	Integração entre música, mensagens e chamadas de voz.
-•	Sistema de escuta compartilhada sincronizada.
-•	Interface simplificada e intuitiva.
-•	Compatibilidade multiplataforma.
-•	Comunicação em tempo real.
-•	Arquitetura escalável para crescimento futuro da plataforma.
 
-5. Principais Funcionalidades
+-	Baixo consumo de memória RAM.
+-	Otimização para computadores e smartphones de entrada.
+-	Integração entre música, mensagens e chamadas de voz.
+-	Sistema de escuta compartilhada sincronizada.
+-	Interface simplificada e intuitiva.
+-	Compatibilidade multiplataforma.
+-	Comunicação em tempo real.
+-	Arquitetura escalável para crescimento futuro da plataforma.
+
+6. Principais Funcionalidades
 A plataforma será composta pelos seguintes módulos:
-Biblioteca Musical
-Permite que usuários pesquisem, reproduzam e organizem músicas, artistas, álbuns e playlists.
-Sistema de Amizades
-Permite que usuários adicionem amigos, acompanhem atividades e compartilhem conteúdo musical.
-Chat de Texto
-Sistema de mensagens privadas e em grupo para comunicação instantânea.
-Chat de Voz
-Ferramenta de comunicação por voz com suporte para chamadas individuais e salas coletivas.
-Escuta Compartilhada
-Funcionalidade que permite que diversos usuários escutem músicas sincronizadas simultaneamente.
-Sistema Administrativo
-Ferramentas de moderação, monitoramento e gerenciamento da plataforma.
 
-6. Requisitos Funcionais
+- Biblioteca Musical
+- Permite que usuários pesquisem, reproduzam e organizem músicas, artistas, álbuns e playlists.
+- Sistema de Amizades
+- Permite que usuários adicionem amigos, acompanhem atividades e compartilhem conteúdo musical.
+- Chat de Texto
+- Sistema de mensagens privadas e em grupo para comunicação instantânea.
+- Chat de Voz
+- Ferramenta de comunicação por voz com suporte para chamadas individuais e salas coletivas.
+- Escuta Compartilhada
+- Funcionalidade que permite que diversos usuários escutem músicas sincronizadas simultaneamente.
+- Sistema Administrativo
+- Ferramentas de moderação, monitoramento e gerenciamento da plataforma.
+
+7. Requisitos Funcionais:
+   
 6.1 Cadastro e Autenticação
 RF001 – Cadastro de usuário
 O sistema deve permitir que usuários criem uma conta utilizando e-mail, telefone ou login social.
@@ -70,7 +74,8 @@ O sistema deve permitir redefinição de senha por e-mail ou SMS.
 RF004 – Gerenciamento de perfil
 O usuário deve poder editar foto, nome, biografia e preferências musicais.
 
-6.2 Reprodução de Música
+6.2 Reprodução de Música:
+
 RF005 – Busca de músicas
 O sistema deve permitir pesquisar músicas, artistas, álbuns e playlists.
 RF006 – Reprodução de músicas
@@ -84,7 +89,8 @@ O sistema deve permitir continuar a reprodução mesmo com o aplicativo minimiza
 RF010 – Favoritos
 O usuário deve poder marcar músicas, álbuns e artistas como favoritos.
 
-6.3 Playlists
+6.3 Playlists:
+
 RF011 – Criar playlist
 O usuário deve poder criar playlists personalizadas.
 RF012 – Editar playlist
@@ -96,7 +102,7 @@ O usuário deve poder compartilhar playlists com outros usuários.
 RF015 – Playlist colaborativa
 O sistema deve permitir que múltiplos usuários editem uma playlist compartilhada.
 
-6.4 Rede Social e Amigos
+6.4 Rede Social e Amigos:
 RF016 – Adicionar amigos
 O usuário deve poder enviar e aceitar solicitações de amizade.
 RF017 – Lista de amigos
@@ -108,7 +114,7 @@ O usuário deve poder visualizar o que seus amigos estão ouvindo.
 RF020 – Compartilhar música com amigos
 O usuário deve poder enviar músicas diretamente para outros usuários.
 
-6.5 Chat de Texto
+6.5 Chat de Texto:
 RF021 – Conversa privada
 O sistema deve permitir troca de mensagens privadas entre amigos.
 RF022 – Conversas em grupo
@@ -122,7 +128,8 @@ O sistema deve exibir quando uma mensagem foi entregue e visualizada.
 RF026 – Notificações
 O sistema deve notificar o recebimento de novas mensagens.
 
-6.6 Chat de Voz
+6.6 Chat de Voz:
+
 RF027 – Chamada de voz individual
 O sistema deve permitir chamadas de voz entre dois usuários.
 RF028 – Sala de voz em grupo
@@ -136,7 +143,8 @@ O sistema deve exibir os participantes presentes na sala.
 RF032 – Moderação de sala
 O criador da sala deve poder remover participantes.
 
-6.7 Escuta Compartilhada
+6.7 Escuta Compartilhada:
+
 RF033 – Sessão compartilhada
 O usuário deve poder criar uma sessão para ouvir músicas junto com amigos.
 RF034 – Sincronização da reprodução
@@ -146,7 +154,8 @@ Participantes autorizados devem poder controlar a música reproduzida.
 RF036 – Chat durante a reprodução
 O sistema deve permitir interação por texto e voz durante a sessão.
 
-6.8 Notificações
+6.8 Notificações:
+
 RF037 – Notificações de amizade
 O sistema deve notificar novas solicitações de amizade.
 RF038 – Notificações de mensagens
@@ -156,7 +165,8 @@ O sistema deve alertar usuários sobre chamadas recebidas.
 RF040 – Notificações de compartilhamento
 O sistema deve informar quando uma música ou playlist for compartilhada.
 
-6.9 Administração
+6.9 Administração:
+
 RF041 – Gerenciar usuários
 Administradores devem poder suspender ou bloquear contas.
 RF042 – Moderação de conteúdo
@@ -165,27 +175,46 @@ RF043 – Relatórios
 O sistema deve gerar relatórios de uso, reprodução e interações sociais.
 
 7. Requisitos Não Funcionais
+   
 Os requisitos não funcionais estabelecem os padrões de qualidade, desempenho, segurança e confiabilidade do sistema.
-7.1 Desempenho
+
+7.1 Desempenho:
+
 RNF001 ao RNF005 – Tempo de resposta, carregamento de músicas, entrega de mensagens em tempo real, latência de voz e escalabilidade.
-7.2 Disponibilidade e Confiabilidade
+7.2 Disponibilidade e Confiabilidade:
+
 RNF006 ao RNF009 – Disponibilidade mínima de 99,5%, recuperação de falhas, backups automáticos e integridade dos dados.
-7.3 Segurança
+
+7.3 Segurança:
+
 RNF010 ao RNF014 – Criptografia HTTPS/TLS, armazenamento seguro de senhas, controle de acesso, conformidade com a LGPD e autenticação multifator.
-7.4 Usabilidade
+
+7.4 Usabilidade:
+
 RNF015 ao RNF018 – Facilidade de uso, interface intuitiva, consistência visual e acessibilidade.
-7.5 Compatibilidade
+
+7.5 Compatibilidade:
+
 RNF019 ao RNF021 – Compatibilidade com Android, iOS, navegadores modernos e diferentes resoluções.
-7.6 Manutenibilidade
+
+7.6 Manutenibilidade:
+
 RNF022 ao RNF025 – Modularização, documentação, testes automatizados e atualizações seguras.
-7.7 Escalabilidade
+
+7.7 Escalabilidade:
+
 RNF026 ao RNF028 – Crescimento de usuários, balanceamento de carga e infraestrutura em nuvem.
-7.8 Qualidade de Áudio
+
+7.8 Qualidade de Áudio:
+
 RNF029 ao RNF031 – Streaming de qualidade, cancelamento de ruído e continuidade da reprodução.
-7.9 Notificações
+
+7.9 Notificações:
+
 RNF032 ao RNF033 – Entrega eficiente e personalização das notificações.
-7.10 Monitoramento
+
+7.10 Monitoramento:
 RNF034 ao RNF036 – Registro de eventos, monitoramento contínuo e alertas automáticos.
 
-8. Prototipagem UI/UX
+9. Prototipagem UI/UX:
 Abaixo as principais telas que o usuário verá, 
