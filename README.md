@@ -2,12 +2,18 @@
 
 O Ghojun Music-Chat é um projeto acadêmico desenvolvido para a disciplina de Interação Humano-Computador e UX. O objetivo é criar um protótipo de aplicativo que combine reprodução de música e comunicação entre usuários em uma interface moderna e intuitiva.
 
+---
+
 ## 🎯 Objetivo
 Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demonstrar a integração entre música, interação social e design de interface.
+
+---
 
 ## 🎨 Design
 - Arquivos exportados do Figma estão na pasta ['/design'](https://github.com/H4lfl1n4221/GhojunMusic-Chat/tree/main/design).
 - Protótipo interativo: [Ghojun no Figma](https://www.figma.com/design/cq11uJURii95kvf8RJSgCG/Ghojun?node-id=0-1&p=f&t=FDPkvlG7eCqcrz6i-0)
+
+---
 
 ## 📸 Screenshots
 ### Home
