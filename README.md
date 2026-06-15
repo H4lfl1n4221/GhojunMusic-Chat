@@ -2,18 +2,13 @@
 
 O Ghojun Music-Chat é um projeto acadêmico desenvolvido para a disciplina de Interação Humano-Computador e UX. O objetivo é criar um protótipo de aplicativo que combine reprodução de música e comunicação entre usuários em uma interface moderna e intuitiva.
 
----
-
 ## 🎯 Objetivo
 Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demonstrar a integração entre música, interação social e design de interface.
 
----
 
 ## 🎨 Design
 - Arquivos exportados do Figma estão na pasta ['/design'](https://github.com/H4lfl1n4221/GhojunMusic-Chat/tree/main/design).
 - Protótipo interativo: [Ghojun no Figma](https://www.figma.com/design/cq11uJURii95kvf8RJSgCG/Ghojun?node-id=0-1&p=f&t=FDPkvlG7eCqcrz6i-0)
-
----
 
 ## 📸 Screenshots
 ### Home
@@ -25,7 +20,6 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 ### Playlist
 ![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Playlist.png)
 
----
 
 ## ⚙️ Funcionalidades Planejadas
 - Reprodução de músicas
@@ -34,13 +28,11 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 - Perfil de usuário
 - Navegação intuitiva
 
----
 
 ## Status do Projeto
 
 🚧 Em desenvolvimento (fase de prototipação e desenvolvimento front-end)
 
----
 
 ## 👥 Equipe
 Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pelos membros:
@@ -49,13 +41,11 @@ Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pel
 - [Carlos Henrique Alves Pereira](https://github.com/naivernaiveretriet-png) — Curadoria Musical/Programador
 - [Otávio Miranda Galvão](https://github.com/otavio-miranda) — Documentador
 
- ---
  
 ## 👨🏻‍🏫 Professores responsáveis
 - [Hideljundes Macedo Paulino](https://github.com/Hideljundes)
 - [Wanfranklin de Carvalho Moreira Alves](https://github.com/Wanfranklin)
 
----
 
 ## Licença e Créditos Musicais
 As informações sobre músicas utilizadas e respectivas licenças estarão disponíveis na pasta [`musicas/`](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/main/musicas/lista-de-faixas.md).
