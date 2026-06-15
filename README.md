@@ -25,6 +25,8 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 ### Playlist
 ![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Playlist.png)
 
+---
+
 ## ⚙️ Funcionalidades Planejadas
 - Reprodução de músicas
 - Sistema de chat
@@ -32,9 +34,13 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 - Perfil de usuário
 - Navegação intuitiva
 
+---
+
 ## Status do Projeto
 
 🚧 Em desenvolvimento (fase de prototipação e desenvolvimento front-end)
+
+---
 
 ## 👥 Equipe
 Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pelos membros:
@@ -42,11 +48,14 @@ Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pel
 - [Carlos Eduardo Cavalcante Ramalho](https://github.com/CarlosEduCR) — Designer
 - [Carlos Henrique Alves Pereira](https://github.com/naivernaiveretriet-png) — Curadoria Musical/Programador
 - [Otávio Miranda Galvão](https://github.com/otavio-miranda) — Documentador
+
+ ---
  
 ## 👨🏻‍🏫 Professores responsáveis
 - [Hideljundes Macedo Paulino](https://github.com/Hideljundes)
 - [Wanfranklin de Carvalho Moreira Alves](https://github.com/Wanfranklin)
 
+---
 
 ## Licença e Créditos Musicais
 As informações sobre músicas utilizadas e respectivas licenças estarão disponíveis na pasta [`musicas/`](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/main/musicas/lista-de-faixas.md).
