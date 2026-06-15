@@ -1,4 +1,4 @@
-# 🎶💬 Ghojun Music-Chat 💬🎵
+# Ghojun Music-Chat
 
 O Ghojun Music-Chat é um projeto acadêmico desenvolvido para a disciplina de Interação Humano-Computador e UX. O objetivo é criar um protótipo de aplicativo que combine reprodução de música e comunicação entre usuários em uma interface moderna e intuitiva.
 
