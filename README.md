@@ -11,13 +11,13 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 
 ## 📸 Screenshots
 ### Home
-![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/Home.png)
+![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Home.png)
 
 ### Login
-![Login](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/Login.png)
+![Login](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Login.png)
 
 ### Playlist
-![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/Playlist.png)
+![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Playlist.png)
 
 ## Funcionalidades Planejadas
 - Reprodução de músicas
@@ -34,9 +34,8 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 Projeto desenvolvido para a disciplina de Interação Humano-Computador e UX pelos membros:
 - [Miguel Lucas Martins](https://github.com/H4lfl1n4221) — Curador/Organizador
 - [Carlos Eduardo Cavalcante Ramalho](https://github.com/CarlosEduCR) — Designer
-- [Carlos Henrique Alves Pereira](https://github.com/naivernaiveretriet-png) — Curadoria Musical
+- [Carlos Henrique Alves Pereira](https://github.com/naivernaiveretriet-png) — Curadoria Musical/Programador
 - [Otávio Miranda Galvão](https://github.com/otavio-miranda) — Documentador
-- [Weslley da Silva Macário](https://github.com/weslleydasilva) — Programador
  
 ## Professores responsáveis
 - [Hideljundes Macedo Paulino](https://github.com/Hideljundes)
