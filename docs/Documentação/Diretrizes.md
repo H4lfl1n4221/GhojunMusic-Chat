@@ -16,14 +16,16 @@
 
 ## GHOJUN – Plataforma de Música e Comunicação em Tempo Real
 
-** 1. Apresentação do Projeto
+**1. Apresentação do Projeto**:
+
 O Ghojun é uma plataforma digital de streaming musical integrada com ferramentas de comunicação em tempo real, desenvolvida em 10 de junho de 2026. O projeto foi concebido com foco em acessibilidade tecnológica, visando atender usuários que utilizam computadores e dispositivos móveis com recursos limitados de hardware.
 
 Diferentemente de aplicações tradicionais que demandam grande capacidade de processamento e memória, o Ghojun prioriza a otimização de desempenho, oferecendo uma experiência fluida mesmo em equipamentos de entrada. Sua arquitetura foi projetada para minimizar o consumo de memória RAM, processamento e tráfego de dados, sem comprometer a qualidade dos serviços oferecidos.
 
 A proposta central da plataforma é proporcionar um ambiente onde usuários possam ouvir músicas simultaneamente com seus amigos enquanto interagem por meio de chats de texto e voz, promovendo experiências sociais mais dinâmicas e colaborativas.
 
-**2. Objetivos**
+
+**2. Objetivos**:
 O principal objetivo do Ghojun é unir entretenimento musical e comunicação digital em uma única plataforma, permitindo que usuários compartilhem momentos, conversem e consumam conteúdo musical de forma sincronizada.
 
 Entre os objetivos específicos do projeto destacam-se:
@@ -34,17 +36,20 @@ Entre os objetivos específicos do projeto destacam-se:
 - Garantir compatibilidade com dispositivos de baixo desempenho.
 - Oferecer uma experiência intuitiva e acessível para diferentes perfis de usuários.
 
-**3. Público-Alvo**
+
+**3. Público-Alvo**:
 O Ghojun foi desenvolvido para atender principalmente dois grupos de usuários:
 
-*Jovens e adolescentes*
+*Jovens e adolescentes*:
 Usuários que buscam entretenimento, socialização e momentos de descontração através da música e da comunicação online.
 
-*Jovens adultos e profissionais*
+*Jovens adultos e profissionais*:
 Usuários que necessitam de ferramentas de comunicação para reuniões, grupos de estudo, projetos colaborativos ou encontros virtuais, utilizando recursos de voz, texto e compartilhamento de conteúdo.
 
-**4. Diferenciais Competitivos**
+
+**4. Diferenciais Competitivos**:
 Os principais diferenciais do Ghojun são:
+
 - Baixo consumo de memória RAM.
 - Otimização para computadores e smartphones de entrada.
 - Integração entre música, mensagens e chamadas de voz.
@@ -54,7 +59,8 @@ Os principais diferenciais do Ghojun são:
 - Comunicação em tempo real.
 - Arquitetura escalável para crescimento futuro da plataforma.
 
-**5. Principais Funcionalidades**
+
+**5. Principais Funcionalidades**:
 A plataforma será composta pelos seguintes módulos:
 
 *Biblioteca Musical*
