@@ -18,7 +18,7 @@ Diferentemente de aplicações tradicionais que demandam grande capacidade de pr
 
 A proposta central da plataforma é proporcionar um ambiente onde usuários possam ouvir músicas simultaneamente com seus amigos enquanto interagem por meio de chats de texto e voz, promovendo experiências sociais mais dinâmicas e colaborativas.
 
---
+---
 
 **2. Objetivos**
 O principal objetivo do Ghojun é unir entretenimento musical e comunicação digital em uma única plataforma, permitindo que usuários compartilhem momentos, conversem e consumam conteúdo musical de forma sincronizada.
