@@ -73,3 +73,12 @@
 - Criação de tela de "conta"  
 - Criação de tela de idiomas  
 - Criação do botão de "câmera" nas ilhas 
+
+----
+
+## 🛡️ Administração e Controle de Usuários
+- Criação da tela de administrador  
+- Criação da tela de suspender usuário  
+- Criação da tela de Banir usuário  
+- Criação do botão suspender  
+- Criação do botão banir  
