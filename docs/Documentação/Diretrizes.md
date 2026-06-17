@@ -24,6 +24,7 @@ Diferentemente de aplicações tradicionais que demandam grande capacidade de pr
 
 A proposta central da plataforma é proporcionar um ambiente onde usuários possam ouvir músicas simultaneamente com seus amigos enquanto interagem por meio de chats de texto e voz, promovendo experiências sociais mais dinâmicas e colaborativas.
 
+---
 
 **2. Objetivos**:
 O principal objetivo do Ghojun é unir entretenimento musical e comunicação digital em uma única plataforma, permitindo que usuários compartilhem momentos, conversem e consumam conteúdo musical de forma sincronizada.
@@ -36,6 +37,7 @@ Entre os objetivos específicos do projeto destacam-se:
 - Garantir compatibilidade com dispositivos de baixo desempenho.
 - Oferecer uma experiência intuitiva e acessível para diferentes perfis de usuários.
 
+---
 
 **3. Público-Alvo**:
 O Ghojun foi desenvolvido para atender principalmente dois grupos de usuários:
@@ -46,6 +48,7 @@ Usuários que buscam entretenimento, socialização e momentos de descontração
 *Jovens adultos e profissionais*:
 Usuários que necessitam de ferramentas de comunicação para reuniões, grupos de estudo, projetos colaborativos ou encontros virtuais, utilizando recursos de voz, texto e compartilhamento de conteúdo.
 
+---
 
 **4. Diferenciais Competitivos**:
 Os principais diferenciais do Ghojun são:
@@ -59,6 +62,7 @@ Os principais diferenciais do Ghojun são:
 - Comunicação em tempo real.
 - Arquitetura escalável para crescimento futuro da plataforma.
 
+---
 
 **5. Principais Funcionalidades**:
 A plataforma será composta pelos seguintes módulos:
@@ -81,6 +85,7 @@ A plataforma será composta pelos seguintes módulos:
 *Sistema Administrativo*
 - Ferramentas de moderação, monitoramento e gerenciamento da plataforma.
   
+---
 
 **6. Requisitos Funcionais**:
 
@@ -203,6 +208,8 @@ O sistema deve notificar novas solicitações de amizade.
 RF031 – Gerenciar usuários
 Administradores devem poder suspender ou bloquear contas.
 
+---
+
 **7. Requisitos Não Funcionais ( Alguns dos requisitos não funcionais não estão em funcionamento )**
    
 Os requisitos não funcionais estabelecem os padrões de qualidade, desempenho, segurança e confiabilidade do sistema.
@@ -237,6 +244,7 @@ RNF032 ao RNF033 – Entrega eficiente e personalização das notificações.
 - *7.10 Monitoramento*:
 RNF034 ao RNF036 – Registro de eventos, monitoramento contínuo e alertas automáticos.
 
+---
 
 **8. Prototipagem UI/UX**
 Abaixo as principais telas que o usuário verá: Login, Página inicial e Biblioteca de áudios.
