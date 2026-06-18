@@ -12,13 +12,13 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 
 ## 📸 Screenshots
 ### Home
-![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Home.png)
+![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/main/design/pngs/Home.png)
 
 ### Login
 ![Login](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Login.png)
 
 ### Playlist
-![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Playlist.png)
+![Playlist](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/main/design/pngs/Playlist.png)
 
 
 ## ⚙️ Funcionalidades Planejadas
