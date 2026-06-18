@@ -257,4 +257,4 @@ Abaixo as principais telas que o usuário verá: Login, Página inicial e Biblio
 ![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Home.png)
 
 ### Biblioteca
-![Biblioteca](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Playlist.png)
+![Biblioteca](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Biblioteca.png)
