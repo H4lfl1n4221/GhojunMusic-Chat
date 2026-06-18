@@ -30,7 +30,7 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 
 ## 📥 Download
 
-Link: [Baixar](https://drive.google.com/drive/folders/1C6pRn_9vNaPDiBDStAs2Bjz_ZtSQM4QE)
+Link: [Baixar pelo Drive](https://drive.google.com/drive/folders/1C6pRn_9vNaPDiBDStAs2Bjz_ZtSQM4QE)
 
 
 ## Status do Projeto
