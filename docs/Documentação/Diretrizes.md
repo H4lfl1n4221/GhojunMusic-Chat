@@ -250,8 +250,11 @@ RNF034 ao RNF036 – Registro de eventos, monitoramento contínuo e alertas auto
 Abaixo as principais telas que o usuário verá: Login, Página inicial e Biblioteca de áudios.
                          
 
+### Login
+![Login](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Login.png)
+
 ### Home
 ![Home](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Home.png)
 
-### Login
-![Login](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Login.png)
+### Biblioteca
+![Biblioteca](https://github.com/H4lfl1n4221/GhojunMusic-Chat/blob/design/design/pngs/Biblioteca.png)
