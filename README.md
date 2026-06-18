@@ -28,6 +28,10 @@ Desenvolver um protótipo funcional utilizando conceitos de UX e IHC para demons
 - Perfil de usuário
 - Navegação intuitiva
 
+## 📥 Download
+
+Link: [Baixar](https://drive.google.com/drive/folders/1C6pRn_9vNaPDiBDStAs2Bjz_ZtSQM4QE)
+
 
 ## Status do Projeto
 
