@@ -35,7 +35,7 @@ Link: [Baixar pelo Drive](https://drive.google.com/drive/folders/1C6pRn_9vNaPDiB
 
 ## Status do Projeto
 
-🚧 Em desenvolvimento (fase de prototipação e desenvolvimento front-end)
+🚧 Em desenvolvimento (fase de prototipação)
 
 
 ## 👥 Equipe
